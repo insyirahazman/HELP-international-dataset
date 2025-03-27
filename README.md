@@ -1,18 +1,18 @@
 # HELP-international-dataset-analysis
 
-📌 Overview
+Overview
 
-This repository contains an in-depth analysis of the HELP International Dataset, focusing on data-driven insights to determine which countries need the most assistance. 
+This repository contains an in-depth analysis of the HELP International Dataset, focusing on data-driven     insights to determine which countries need the most assistance.  
 The analysis includes data preprocessing, exploratory data analysis (EDA), and predictive modeling.
 
-📊 Key Features
+Key Features
 
 **Data Cleaning & Preprocessing**: Handling missing values, duplicates, and data normalization.
 
 **Exploratory Data Analysis (EDA)**: Visualizing trends, distributions, and correlations.
 
 **Feature Engineering**: Selecting and transforming features for better model performance.
-wd
+
 **Machine Learning Models**: Applying classification and regression techniques to assess country needs.
 
 **Data Visualization**: Using Matplotlib, Seaborn, and Plotly for interactive insights.
